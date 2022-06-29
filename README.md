@@ -20,7 +20,7 @@ Experiments were run with Python 3.6 and these packages:
   python collect.py --env-name "PongNoFrameskip-v4"
  ```
 
-We provide collected expert demonstrations in the following link (https://drive.google.com/drive/folders/1nlUf471Cp0g7N3JRy0lKnBJNnzJaEqY-?usp=sharing).
+We provide collected expert demonstrations in the following link. [[Google Drive]](https://drive.google.com/drive/folders/1nlUf471Cp0g7N3JRy0lKnBJNnzJaEqY-?usp=sharing)
 
 ## Train GAIL
 
