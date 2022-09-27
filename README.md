@@ -1,6 +1,6 @@
 # Atari-GAIL
 
-This repository contains the PyTorch code for Generative Adversarial Imitation Learning (GAIL) with visual inputs, i.e. Atari games and visual dm-control. ![]( https://visitor-badge.glitch.me/badge?page_id=naivety77.gail_atari)
+This repository contains the PyTorch code for Generative Adversarial Imitation Learning (GAIL) with visual inputs, i.e. Atari games and visual dm-control.
 
 ## Requirements
 Experiments were run with Python 3.6 and these packages:
