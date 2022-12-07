@@ -52,5 +52,18 @@ We train GAIL with 2000 optimal demonstrations. The results are as follow.
 
 In our experiments, we find that using BC as a pre-training step can significantly improve the performance of GAIL in some Atari games.
 
+## Citations
+
+If you are using the code/data in this repo, please consider citing:
+
+       @inproceedings{wang2021learning,
+         title={Learning to Weight Imperfect Demonstrations},
+         author={Wang, Yunke and Xu, Chang and Du, Bo and Lee, Honglak},
+         booktitle={International Conference on Machine Learning},
+         pages={10961--10970},
+         year={2021},
+         organization={PMLR}
+       }
+
 ## Acknowledegement
 Our code structure is largely based on [Kostrikov's](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) implementation.
